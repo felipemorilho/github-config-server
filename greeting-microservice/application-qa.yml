@@ -9,4 +9,4 @@ management:
         - '*'
 greeting-microservice:
   greeting: "Ciao"
-  default-value: "Pizza!"
+  default-value: "Pizza AMORE!"

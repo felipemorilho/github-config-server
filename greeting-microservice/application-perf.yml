@@ -9,4 +9,4 @@ management:
         - '*'
 greeting-microservice:
   greeting: "Hola!"
-  default-value: "Que tal?!"
+  default-value: "Que tal? Como estas:!"

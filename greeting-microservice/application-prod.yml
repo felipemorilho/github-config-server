@@ -9,4 +9,4 @@ management:
         - '*'
 greeting-microservice:
   greeting: "Olá"
-  default-value: "Todo mundo!"
+  default-value: "Todo mundo! PARTIU!!!!"
